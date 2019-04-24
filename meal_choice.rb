@@ -4,4 +4,3 @@
 def meal_choice(meat == "meat")
   "you have selected #{meat}"
 end
-s
